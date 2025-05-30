@@ -1,5 +1,5 @@
 {
-  "name": "d4a72bbddcda2def266de3c2276a7395",
+  "name": "Trabalho-Final-Programacao-para-Automacao-de-Testes-Turma-02",
   "version": "1.0.0",
   "main": "trabalho-final.js",
   "type": "module",
@@ -12,12 +12,12 @@
   "description": "Projeto para trabalho final da disciplina Programação para Automação de Testes da Pós-Graduação em Automação de Testes de Software turma 2/2025.",
   "repository": {
     "type": "git",
-    "url": "git+https://gist.github.com/d4a72bbddcda2def266de3c2276a7395.git"
+    "url": "git+https://github.com/gabicouto93/Trabalho-Final-Programacao-para-Automacao-de-Testes-Turma-02.git"
   },
   "bugs": {
-    "url": "https://gist.github.com/d4a72bbddcda2def266de3c2276a7395"
+    "url": "https://github.com/gabicouto93/Trabalho-Final-Programacao-para-Automacao-de-Testes-Turma-02"
   },
-  "homepage": "https://gist.github.com/d4a72bbddcda2def266de3c2276a7395",
+  "homepage": "https://github.com/gabicouto93/Trabalho-Final-Programacao-para-Automacao-de-Testes-Turma-02",
   "devDependencies": {
     "mocha": "^11.5.0"
   }
