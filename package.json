@@ -1,0 +1,24 @@
+{
+  "name": "d4a72bbddcda2def266de3c2276a7395",
+  "version": "1.0.0",
+  "main": "trabalho-final.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriella Maria Couto Oliveira",
+  "license": "ISC",
+  "description": "Projeto para trabalho final da disciplina Programação para Automação de Testes da Pós-Graduação em Automação de Testes de Software turma 2/2025.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/d4a72bbddcda2def266de3c2276a7395.git"
+  },
+  "bugs": {
+    "url": "https://gist.github.com/d4a72bbddcda2def266de3c2276a7395"
+  },
+  "homepage": "https://gist.github.com/d4a72bbddcda2def266de3c2276a7395",
+  "devDependencies": {
+    "mocha": "^11.5.0"
+  }
+}
