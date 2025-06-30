@@ -1,24 +1,16 @@
 {
-  "name": "Trabalho-Final-Programacao-para-Automacao-de-Testes-Turma-02",
+  "name": "projeto-pets",
   "version": "1.0.0",
-  "main": "trabalho-final.js",
+  "description": "Projeto com testes em JavaScript usando Vitest",
+  "main": "codigo.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
   },
-  "keywords": [],
-  "author": "Gabriella Maria Couto Oliveira",
-  "license": "ISC",
-  "description": "Projeto para trabalho final da disciplina Programação para Automação de Testes da Pós-Graduação em Automação de Testes de Software turma 2/2025.",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gabicouto93/Trabalho-Final-Programacao-para-Automacao-de-Testes-Turma-02.git"
-  },
-  "bugs": {
-    "url": "https://github.com/gabicouto93/Trabalho-Final-Programacao-para-Automacao-de-Testes-Turma-02"
-  },
-  "homepage": "https://github.com/gabicouto93/Trabalho-Final-Programacao-para-Automacao-de-Testes-Turma-02",
   "devDependencies": {
-    "mocha": "^11.5.0"
+    "@vitest/coverage-v8": "3.2.4",
+    "c8": "^10.1.3",
+    "vitest": "^3.2.4"
   }
 }
